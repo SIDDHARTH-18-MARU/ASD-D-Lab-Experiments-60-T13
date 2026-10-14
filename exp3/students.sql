@@ -5,7 +5,7 @@ SHOW DATABASES;
 USE studentdb;
 
 CREATE TABLE students (roll INT PRIMARY KEY, name VARCHAR(50), batch VARCHAR(20));
-INSERT INTO students VALUES (2401036, 'Dhruv Hemdev', 'T1');
+INSERT INTO students VALUES (2401060, 'Siddharth Maru', 'T1');
 
 SHOW TABLES;
 SELECT * FROM students;

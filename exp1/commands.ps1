@@ -2,7 +2,7 @@
 # Commands in the order they were run in PowerShell (see screenshots/01.png - 25.png).
 
 # --- Identity ---
-git config --global user.name "dhruvh6"
+git config --global user.name "Siddharth"
 git config --global user.email "<email>"
 
 # --- Create and initialise the repository ---

@@ -9,10 +9,9 @@ All student records in this project are dummy data.
 
 | Member | Jira issues |
 |---|---|
-| Dhruv | SMS-1, SMS-3 |
-| Janhavi | SMS-2, SMS-8, SMS-9 |
-| Mayank | SMS-6, SMS-7, SMS-10 |
-| Prakriti | SMS-11 |
+| Siddharth | SMS-1, SMS-3 |
+| Varun | SMS-2, SMS-8, SMS-9 |
+| Kushagra | SMS-6, SMS-7, SMS-10 |
 
 ## Run locally
 
